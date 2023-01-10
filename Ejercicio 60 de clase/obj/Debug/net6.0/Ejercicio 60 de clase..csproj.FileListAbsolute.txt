@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\bin\Debug\net6.0\Ejercicio 60 de clase..exe
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\bin\Debug\net6.0\Ejercicio 60 de clase..deps.json
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\bin\Debug\net6.0\Ejercicio 60 de clase..runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\bin\Debug\net6.0\Ejercicio 60 de clase..dll
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\bin\Debug\net6.0\Ejercicio 60 de clase..pdb
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..dll
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\refint\Ejercicio 60 de clase..dll
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..pdb
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\Ejercicio 60 de clase..genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 60 de clase\Ejercicio 60 de clase\obj\Debug\net6.0\ref\Ejercicio 60 de clase..dll
